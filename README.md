@@ -2,8 +2,8 @@
 Why do we hate - A study to better understand the effects of income on hate crimes.
 
 Background: 
-The recent election cycle and resulting political turmoil has brought hate into the forefront of the American psyche.  
-Racially motivated attacks lacking condemnation from a sitting United States president has caused us to revisit a question 
+The recent election cycle and resulting political turmoil has brought hate into the forefront of the American psyche. Racially 
+motivated attacks lacking condemnation from a sitting United States president has caused us to revisit a question 
 that many believed was put to rest decades ago.  What's more surprising is that this is happening during a time where America 
 is experiencing relatively unprecendented economic expansion.   Unemployment is low, corporate profits are robust, however the 
 vast majority of hourly workers have not shared in this prosperity.  In an attempt to better understand this connection, we 
