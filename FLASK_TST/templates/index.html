@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Hate Crime</title>
+</head>
+<body bgcolor="lightblue">
+   <center> <div class="row">
+         <div class="col-md-12 jumbotron text-center">
+            <h1>Total Hate Crime Informational Databases</h1>
+            <h2>Background:</h2> The recent election cycle and resulting political 
+            turmoil has brought hate into the forefront of the American psyche. 
+            <br>Racially motivated attacks lacking condemnation from a sitting United States president has caused us to revisit a question that many believed was put to rest decades ago.
+             <br>What's more surprising is that this is happening during a time where America is experiencing relatively unprecendented economic expansion.
+            <br>Unemployment is low, corporate profits are robust, however the vast majority of hourly workers have not shared in this prosperity. 
+            <br>In an attempt to better understand this connection, we made a couple cool graphs. Enjoy the presentation!
+          </div>
+       </div></center>
+
+    <div id="plot"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+
+    
+    <center> <div class="row">
+            <div class="col-md-12 jumbotron text-center">
+               <h1>Total Crime Informational Database</h1>
+               <p>Use the interactive charts below to explore the dataset</p>
+            </div>
+        </div></center>
+      
+           
+    <div id="plot2"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="{{ url_for('static', filename='app_ckm.js') }}"></script>
+
+  
+</body>
+</html>

@@ -1,0 +1,401 @@
+State,year,Pop,region,Income,CrimeRate
+.Alabama,2010,480,South,40474,40
+.Alaska,2010,70,West,64576,98
+.Arizona,2010,640,West,46789,368
+.Arkansas,2010,290,South,38307,216
+.California,2010,3730,West,57708,293
+.Colorado,2010,500,Midwest,54046,305
+.Connecticut,2010,360,Northeast,64032,411
+.Delaware,2010,90,Northeast,55847,222
+.District of Columbia,2010,60,Northeast,60903,942
+.Florida,2010,1880,South,44409,72
+.Georgia,2010,970,South,46430,18
+.Idaho,2010,160,West,43490,178
+.Illinois,2010,1280,Midwest,52972,73
+.Indiana,2010,650,Midwest,44613,145
+.Iowa,2010,310,Midwest,47961,56
+.Kansas,2010,290,Midwest,48257,203
+.Kentucky,2010,430,South,40062,398
+.Louisiana,2010,450,South,42505,29
+.Maine,2010,130,Northeast,45815,459
+.Maryland,2010,580,Northeast,68854,138
+.Massachusetts,2010,660,Northeast,62072,481
+.Michigan,2010,990,Midwest,45413,308
+.Minnesota,2010,530,Midwest,55459,239
+.Mississippi,2010,300,South,36851,37
+.Missouri,2010,600,South,44301,237
+.Montana,2010,100,West,42666,313
+.Nebraska,2010,180,Midwest,48408,333
+.Nevada,2010,270,West,51001,252
+.New Hampshire,2010,130,Northeast,61042,235
+.New Jersey,2010,880,Northeast,67681,617
+.New Mexico,2010,210,South,42090,116
+.New York,2010,1940,Northeast,54148,360
+.North Carolina,2010,960,South,43326,98
+.North Dakota,2010,70,Midwest,48670,119
+.Ohio,2010,1150,Midwest,45090,214
+.Oklahoma,2010,380,South,42072,130
+.Oregon,2010,380,West,46560,349
+.Pennsylvania,2010,1270,Northeast,49288,45
+.Rhode Island,2010,110,Northeast,52254,190
+.South Carolina,2010,460,South,42018,235
+.South Dakota,2010,80,Midwest,45904,625
+.Tennessee,2010,640,South,41461,231
+.Texas,2010,2520,South,48615,69
+.Utah,2010,280,West,54744,227
+.Vermont,2010,60,Northeast,49406,272
+.Virginia,2010,800,South,60674,218
+.Washington,2010,670,West,55631,344
+.West Virginia,2010,190,South,38218,178
+.Wisconsin,2010,570,Midwest,49001,163
+.Wyoming,2010,60,West,53512,35
+.Alabama,2011,480,South,41415,173
+.Alaska,2011,70,West,67825,111
+.Arizona,2011,650,West,46709,298
+.Arkansas,2011,290,South,38758,122
+.California,2011,3760,West,57287,276
+.Colorado,2011,510,Midwest,55387,363
+.Connecticut,2011,360,Northeast,65753,396
+.Delaware,2011,90,Northeast,58814,176
+.District of Columbia,2011,60,Northeast,63124,1340
+.Florida,2011,1910,South,44299,64
+.Georgia,2011,980,South,46007,17
+.Idaho,2011,160,West,43341,234
+.Illinois,2011,1290,Midwest,53234,54
+.Indiana,2011,650,Midwest,46438,155
+.Iowa,2011,310,Midwest,49427,49
+.Kansas,2011,290,Midwest,48964,240
+.Kentucky,2011,440,South,41141,359
+.Louisiana,2011,460,South,41734,11
+.Maine,2011,130,Northeast,46033,414
+.Maryland,2011,580,Northeast,70004,84
+.Massachusetts,2011,660,Northeast,62859,556
+.Michigan,2011,990,Midwest,45981,383
+.Minnesota,2011,530,Midwest,56954,277
+.Mississippi,2011,300,South,36919,3
+.Missouri,2011,600,South,45247,201
+.Montana,2011,100,West,44222,231
+.Nebraska,2011,180,Midwest,50296,196
+.Nevada,2011,270,West,48927,217
+.New Hampshire,2011,130,Northeast,62647,167
+.New Jersey,2011,880,Northeast,67458,575
+.New Mexico,2011,210,South,41963,135
+.New York,2011,1950,Northeast,55246,280
+.North Carolina,2011,970,South,43916,116
+.North Dakota,2011,70,Midwest,51704,394
+.Ohio,2011,1150,Midwest,45749,217
+.Oklahoma,2011,380,South,43225,79
+.Oregon,2011,390,West,46816,336
+.Pennsylvania,2011,1270,Northeast,50228,15
+.Rhode Island,2011,110,Northeast,53636,237
+.South Carolina,2011,470,South,42367,265
+.South Dakota,2011,80,Midwest,48321,267
+.Tennessee,2011,640,South,41693,231
+.Texas,2011,2560,South,49392,60
+.Utah,2011,280,West,55869,245
+.Vermont,2011,60,Northeast,52776,144
+.Virginia,2011,810,South,61882,181
+.Washington,2011,680,West,56835,312
+.West Virginia,2011,190,South,38482,102
+.Wisconsin,2011,570,Midwest,50395,138
+.Wyoming,2011,60,West,56322,35
+.Alabama,2012,480,South,41574,12
+.Alaska,2012,70,West,67712,82
+.Arizona,2012,660,West,47826,268
+.Arkansas,2012,300,South,40112,173
+.California,2012,3800,West,58328,240
+.Colorado,2012,520,Midwest,56765,364
+.Connecticut,2012,360,Northeast,67276,415
+.Delaware,2012,90,Northeast,58415,109
+.District of Columbia,2012,60,Northeast,66583,1134
+.Florida,2012,1930,South,45040,75
+.Georgia,2012,990,South,47209,21
+.Idaho,2012,160,West,45489,219
+.Illinois,2012,1290,Midwest,55137,66
+.Indiana,2012,650,Midwest,46974,57
+.Iowa,2012,310,Midwest,50957,26
+.Kansas,2012,290,Midwest,50241,291
+.Kentucky,2012,440,South,41724,465
+.Louisiana,2012,460,South,42944,9
+.Maine,2012,130,Northeast,46709,392
+.Maryland,2012,590,Northeast,71122,59
+.Massachusetts,2012,670,Northeast,65339,435
+.Michigan,2012,990,Midwest,46859,641
+.Minnesota,2012,540,Midwest,58906,134
+.Mississippi,2012,300,South,37095,60
+.Missouri,2012,600,South,45321,173
+.Montana,2012,100,West,45076,359
+.Nebraska,2012,190,Midwest,50723,49
+.Nevada,2012,270,West,49760,332
+.New Hampshire,2012,130,Northeast,63280,227
+.New Jersey,2012,880,Northeast,69667,571
+.New Mexico,2012,210,South,42558,10
+.New York,2012,1960,Northeast,56448,368
+.North Carolina,2012,970,South,45150,122
+.North Dakota,2012,70,Midwest,53585,599
+.Ohio,2012,1150,Midwest,46829,229
+.Oklahoma,2012,380,South,44312,55
+.Oregon,2012,390,West,49161,133
+.Pennsylvania,2012,1280,Northeast,51230,30
+.Rhode Island,2012,110,Northeast,54554,114
+.South Carolina,2012,470,South,43107,220
+.South Dakota,2012,80,Midwest,48362,360
+.Tennessee,2012,650,South,42764,498
+.Texas,2012,2610,South,50740,67
+.Utah,2012,290,West,57049,357
+.Vermont,2012,60,Northeast,52977,224
+.Virginia,2012,820,South,61741,169
+.Washington,2012,690,West,57573,398
+.West Virginia,2012,190,South,40196,145
+.Wisconsin,2012,570,Midwest,51059,121
+.Wyoming,2012,60,West,54901,35
+.Alabama,2013,480,South,42849,12
+.Alaska,2013,70,West,72237,109
+.Arizona,2013,660,West,48510,303
+.Arkansas,2013,300,South,40511,91
+.California,2013,3830,West,60190,220
+.Colorado,2013,530,Midwest,58823,245
+.Connecticut,2013,360,Northeast,67098,401
+.Delaware,2013,90,Northeast,57846,141
+.District of Columbia,2013,70,Northeast,67572,1107
+.Florida,2013,1960,South,46036,61
+.Georgia,2013,1000,South,47829,57
+.Idaho,2013,160,West,46783,199
+.Illinois,2013,1290,Midwest,56210,83
+.Indiana,2013,660,Midwest,47529,114
+.Iowa,2013,310,Midwest,52229,32
+.Kansas,2013,290,Midwest,50972,235
+.Kentucky,2013,440,South,43399,390
+.Louisiana,2013,460,South,44164,52
+.Maine,2013,130,Northeast,46974,188
+.Maryland,2013,590,Northeast,72483,86
+.Massachusetts,2013,670,Northeast,66768,523
+.Michigan,2013,990,Midwest,48273,336
+.Minnesota,2013,540,Midwest,60702,266
+.Mississippi,2013,300,South,37963,13
+.Missouri,2013,600,South,46931,174
+.Montana,2013,100,West,46972,355
+.Nebraska,2013,190,Midwest,51440,177
+.Nevada,2013,280,West,51230,263
+.New Hampshire,2013,130,Northeast,64230,173
+.New Jersey,2013,890,Northeast,70165,467
+.New Mexico,2013,210,South,43872,57
+.New York,2013,1960,Northeast,57369,313
+.North Carolina,2013,980,South,45906,120
+.North Dakota,2013,70,Midwest,55759,706
+.Ohio,2013,1160,Midwest,48081,295
+.Oklahoma,2013,390,South,45690,112
+.Oregon,2013,390,West,50251,173
+.Pennsylvania,2013,1280,Northeast,52007,44
+.Rhode Island,2013,110,Northeast,55902,66
+.South Carolina,2013,480,South,44163,109
+.South Dakota,2013,80,Midwest,48947,249
+.Tennessee,2013,650,South,44297,316
+.Texas,2013,2650,South,51704,54
+.Utah,2013,290,West,59770,262
+.Vermont,2013,60,Northeast,52578,208
+.Virginia,2013,830,South,62666,149
+.Washington,2013,700,West,58405,422
+.West Virginia,2013,190,South,41253,313
+.Wisconsin,2013,570,Midwest,51467,87
+.Wyoming,2013,60,West,58752,17
+.Alabama,2014,480,South,42830,19
+.Alaska,2014,70,West,71583,81
+.Arizona,2014,670,West,50068,394
+.Arkansas,2014,300,South,41262,34
+.California,2014,3860,West,61933,197
+.Colorado,2014,540,Midwest,61303,176
+.Connecticut,2014,360,Northeast,70048,348
+.Delaware,2014,90,Northeast,59716,139
+.District of Columbia,2014,70,Northeast,71648,1057
+.Florida,2014,1990,South,47463,33
+.Georgia,2014,1010,South,49321,41
+.Idaho,2014,160,West,47861,159
+.Illinois,2014,1290,Midwest,57444,85
+.Indiana,2014,660,Midwest,49446,77
+.Iowa,2014,310,Midwest,53712,35
+.Kansas,2014,290,Midwest,52504,259
+.Kentucky,2014,440,South,42958,374
+.Louisiana,2014,460,South,44555,19
+.Maine,2014,130,Northeast,49462,210
+.Maryland,2014,600,Northeast,73971,27
+.Massachusetts,2014,680,Northeast,69160,556
+.Michigan,2014,990,Midwest,49847,322
+.Minnesota,2014,550,Midwest,61481,180
+.Mississippi,2014,300,South,39680,7
+.Missouri,2014,610,South,48363,125
+.Montana,2014,100,West,46328,343
+.Nebraska,2014,190,Midwest,52686,250
+.Nevada,2014,280,West,51450,85
+.New Hampshire,2014,130,Northeast,66532,113
+.New Jersey,2014,890,Northeast,71919,379
+.New Mexico,2014,210,South,44803,62
+.New York,2014,1970,Northeast,58878,277
+.North Carolina,2014,990,South,46556,141
+.North Dakota,2014,70,Midwest,59029,556
+.Ohio,2014,1160,Midwest,49308,363
+.Oklahoma,2014,390,South,47529,80
+.Oregon,2014,400,West,51075,166
+.Pennsylvania,2014,1280,Northeast,53234,42
+.Rhode Island,2014,110,Northeast,54891,47
+.South Carolina,2014,480,South,45238,110
+.South Dakota,2014,80,Midwest,50979,212
+.Tennessee,2014,650,South,44361,303
+.Texas,2014,2700,South,53035,59
+.Utah,2014,290,West,60922,187
+.Vermont,2014,60,Northeast,54166,240
+.Virginia,2014,830,South,64902,148
+.Washington,2014,710,West,61366,431
+.West Virginia,2014,180,South,41059,157
+.Wisconsin,2014,580,Midwest,52622,90
+.Wyoming,2014,60,West,57055,0
+.Alabama,2015,490,South,44765,21
+.Alaska,2015,70,West,73355,108
+.Arizona,2015,680,West,51492,404
+.Arkansas,2015,300,South,41995,17
+.California,2015,3900,West,64500,215
+.Colorado,2015,550,Midwest,63909,196
+.Connecticut,2015,360,Northeast,71346,259
+.Delaware,2015,90,Northeast,61255,117
+.District of Columbia,2015,70,Northeast,75628,963
+.Florida,2015,2020,South,49426,36
+.Georgia,2015,1020,South,51244,43
+.Idaho,2015,170,West,48275,6
+.Illinois,2015,1290,Midwest,59588,26
+.Indiana,2015,660,Midwest,50532,136
+.Iowa,2015,310,Midwest,54736,202
+.Kansas,2015,290,Midwest,53906,21
+.Kentucky,2015,440,South,45215,140
+.Louisiana,2015,470,South,45727,403
+.Maine,2015,130,Northeast,51494,286
+.Maryland,2015,600,Northeast,75847,63
+.Massachusetts,2015,680,Northeast,70628,60
+.Michigan,2015,990,Midwest,51084,414
+.Minnesota,2015,550,Midwest,63488,564
+.Mississippi,2015,300,South,40593,365
+.Missouri,2015,610,South,50238,165
+.Montana,2015,100,West,49509,437
+.Nebraska,2015,190,Midwest,54996,100
+.Nevada,2015,290,West,52431,202
+.New Hampshire,2015,130,Northeast,70303,97
+.New Jersey,2015,890,Northeast,72222,372
+.New Mexico,2015,210,South,45382,62
+.New York,2015,1970,Northeast,60850,254
+.North Carolina,2015,1000,South,47830,160
+.North Dakota,2015,80,Midwest,60557,477
+.Ohio,2015,1160,Midwest,51075,358
+.Oklahoma,2015,390,South,48568,95
+.Oregon,2015,400,West,54148,207
+.Pennsylvania,2015,1280,Northeast,55702,44
+.Rhode Island,2015,110,Northeast,58073,170
+.South Carolina,2015,490,South,47238,112
+.South Dakota,2015,90,Midwest,53017,187
+.Tennessee,2015,660,South,47275,335
+.Texas,2015,2750,South,55653,69
+.Utah,2015,300,West,62912,158
+.Vermont,2015,60,Northeast,56990,128
+.Virginia,2015,840,South,66262,189
+.Washington,2015,720,West,64129,384
+.West Virginia,2015,180,South,42019,223
+.Wisconsin,2015,580,Midwest,55638,75
+.Wyoming,2015,60,West,60214,34
+.Alabama,2016,490,South,46257,29
+.Alaska,2016,70,West,76440,148
+.Arizona,2016,690,West,53558,312
+.Arkansas,2016,300,South,44334,40
+.California,2016,3920,West,67739,237
+.Colorado,2016,550,Midwest,65685,189
+.Connecticut,2016,360,Northeast,73433,302
+.Delaware,2016,90,Northeast,61757,158
+.District of Columbia,2016,70,Northeast,75506,1675
+.Florida,2016,2060,South,50860,53
+.Georgia,2016,1030,South,53559,38
+.Idaho,2016,170,West,51807,160
+.Illinois,2016,1280,Midwest,60960,87
+.Indiana,2016,660,Midwest,52314,119
+.Iowa,2016,310,Midwest,56247,54
+.Kansas,2016,290,Midwest,54935,179
+.Kentucky,2016,440,South,46659,482
+.Louisiana,2016,470,South,45146,56
+.Maine,2016,130,Northeast,53079,308
+.Maryland,2016,600,Northeast,78945,65
+.Massachusetts,2016,680,Northeast,75297,577
+.Michigan,2016,1000,Midwest,52492,408
+.Minnesota,2016,550,Midwest,65599,215
+.Mississippi,2016,300,South,41754,67
+.Missouri,2016,610,South,51746,146
+.Montana,2016,100,West,50027,202
+.Nebraska,2016,190,Midwest,56927,163
+.Nevada,2016,290,West,55180,140
+.New Hampshire,2016,130,Northeast,70936,216
+.New Jersey,2016,890,Northeast,76126,318
+.New Mexico,2016,210,South,46748,124
+.New York,2016,1960,Northeast,62909,303
+.North Carolina,2016,1020,South,50584,146
+.North Dakota,2016,80,Midwest,60656,172
+.Ohio,2016,1160,Midwest,52334,405
+.Oklahoma,2016,390,South,49176,89
+.Oregon,2016,410,West,57532,262
+.Pennsylvania,2016,1280,Northeast,56907,53
+.Rhode Island,2016,110,Northeast,60596,114
+.South Carolina,2016,500,South,49501,61
+.South Dakota,2016,90,Midwest,54467,209
+.Tennessee,2016,660,South,48547,224
+.Texas,2016,2790,South,56565,64
+.Utah,2016,300,West,65977,220
+.Vermont,2016,60,Northeast,57677,401
+.Virginia,2016,840,South,68114,151
+.Washington,2016,730,West,67106,541
+.West Virginia,2016,180,South,43385,224
+.Wisconsin,2016,580,Midwest,56811,68
+.Wyoming,2016,60,West,59882,51
+.Alabama,2017,490,South,48123,21
+.Alaska,2017,70,West,73181,54
+.Arizona,2017,700,West,56581,375
+.Arkansas,2017,300,South,45869,87
+.California,2017,3940,West,71805,278
+.Colorado,2017,560,Midwest,69117,155
+.Connecticut,2017,360,Northeast,74168,319
+.Delaware,2017,100,Northeast,62852,303
+.District of Columbia,2017,70,Northeast,82372,2789
+.Florida,2017,2100,South,52594,69
+.Georgia,2017,1040,South,56183,26
+.Idaho,2017,170,West,52225,244
+.Illinois,2017,1280,Midwest,62992,66
+.Indiana,2017,670,Midwest,54181,147
+.Iowa,2017,310,Midwest,58570,32
+.Kansas,2017,290,Midwest,56422,265
+.Kentucky,2017,450,South,48375,849
+.Louisiana,2017,470,South,46145,90
+.Maine,2017,130,Northeast,56277,240
+.Maryland,2017,600,Northeast,80776,168
+.Massachusetts,2017,690,Northeast,77385,632
+.Michigan,2017,1000,Midwest,54909,458
+.Minnesota,2017,560,Midwest,68388,262
+.Mississippi,2017,300,South,43529,164
+.Missouri,2017,610,South,53578,170
+.Montana,2017,110,West,53386,199
+.Nebraska,2017,190,Midwest,59970,250
+.Nevada,2017,300,West,58003,17
+.New Hampshire,2017,130,Northeast,73381,126
+.New Jersey,2017,890,Northeast,80088,561
+.New Mexico,2017,210,South,46744,33
+.New York,2017,1960,Northeast,64894,283
+.North Carolina,2017,1030,South,52752,162
+.North Dakota,2017,80,Midwest,61843,199
+.Ohio,2017,1170,Midwest,54021,331
+.Oklahoma,2017,390,South,50051,71
+.Oregon,2017,410,West,60212,357
+.Pennsylvania,2017,1280,Northeast,59195,59
+.Rhode Island,2017,110,Northeast,63870,104
+.South Carolina,2017,500,South,50570,175
+.South Dakota,2017,90,Midwest,56521,172
+.Tennessee,2017,670,South,51340,203
+.Texas,2017,2830,South,59206,66
+.Utah,2017,310,West,68358,187
+.Vermont,2017,60,Northeast,57513,544
+.Virginia,2017,850,South,71535,222
+.Washington,2017,740,West,70979,688
+.West Virginia,2017,180,South,43469,209
+.Wisconsin,2017,580,Midwest,59305,81
+.Wyoming,2017,60,West,60434,69
