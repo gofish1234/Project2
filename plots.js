@@ -4,20 +4,16 @@ function init() {
     labels: ['American Indian or Alaska Native', 'Black or African American', 'Asian','Multiple', 'Unknown', 'White'],
     type: "pie"
   }];
-​
   var layout = {
     height: 600,
     width: 800
   };
-​
   Plotly.plot("pie", data, layout);
 }
-​
 function updatePlotly(newdata) {
   var PIE = document.getElementById("pie");
   Plotly.restyle(PIE, "values", [newdata]);
 }
-​
 function getData(dataset) {
   var data = [];
   switch (dataset) {
@@ -34,7 +30,7 @@ function getData(dataset) {
     data = [0, 39, 1, 6, 62,122];
     break;
   case "dataset5":     //California
-    data = [19, 886, 87, 309, 3176,3106;
+    data = [19, 886, 87, 309, 3176,3106];
     break; 
   case "dataset6":       //Colorado
     data = [8, 110, 2, 19, 336,576];
@@ -171,12 +167,9 @@ function getData(dataset) {
   case "dataset50":   //Wyoming
     data = [1,0, 0, 1,4,10];
     break;
-  
   default:
         data = [0, 0, 0, 0];
-    
   }
   updatePlotly(data);
 }
-​
 init();
